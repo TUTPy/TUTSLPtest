@@ -21,9 +21,6 @@ ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo (master)
 $ cd TUTSLPtest
 
 ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
-$ vi 214
-214023440                  214043092                  214130998                  214358026                  214448653(assignment1).py  214718693                  214814455_assignment_1.py
-214040158                  214129981                  214178451                  214448653                  214448653.txt              214754100
 
 ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
 $ vi 214773872
