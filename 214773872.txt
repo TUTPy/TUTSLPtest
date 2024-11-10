@@ -1,0 +1,46 @@
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo (master)
+$ git clone https://github.com/Sl1nd0/TUTSLPtest.git
+Cloning into 'TUTSLPtest'...
+remote: Enumerating objects: 493, done.
+remote: Counting objects: 100% (228/228), done.
+remote: Compressing objects: 100% (129/129), done.
+remote: Total 493 (delta 120), reused 157 (delta 94), pack-reused 265
+Receiving objects: 100% (493/493), 137.70 KiB | 233.00 KiB/s, done.
+Resolving deltas: 100% (200/200), done.
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo (master)
+$ ls
+'?'/   RequestHeaderParser/   TUTSLPtest/   important.txt   test.js
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo (master)
+$ cd T
+TUTSLPtest/ test.js
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo (master)
+$ cd TUTSLPtest
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ vi 214773872
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ touch 214773872
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ rm 214773872
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ touch 214773872.txt
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ vi 214773872
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ vi 214773872.txt
+
+ssank@LAPTOP-PN8B2L9N MINGW64 /c/TUTRepo/TUTSLPtest (master)
+$ git pull
+Already up to date.
+
